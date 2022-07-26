@@ -5,7 +5,7 @@
 @layer components {
     .sidebar-icon {
         @apply relative flex items-center justify-center h-12 w-12 mx-auto 
-        p-2 rounded-lg transition-colors duration-200 ease-linear hover:bg-gray-200 cursor-pointer; 
+        p-2 rounded-lg transition-colors duration-200 ease-linear hover:bg-gray-300 cursor-pointer; 
     }
 
     .sidebar-tooltip {

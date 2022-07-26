@@ -8,12 +8,12 @@
       class="w-10 mb-4 mx-auto"
     />
 
-    <SidebarIcon icon="home" tooltip="tooltip home 💡" />
-    <SidebarIcon icon="timer" tooltip="tooltip timer 💡" />
-    <SidebarIcon icon="dashboard" tooltip="tooltip dashboard 💡" />
-    <SidebarIcon icon="settings-3" tooltip="tooltip settings 💡" />
+    <SidebarIcon icon="home" tooltip="Home 💡" />
+    <SidebarIcon icon="timer" tooltip="Scheduler 💡" />
+    <SidebarIcon icon="dashboard" tooltip="Dashboards 💡" />
+    <SidebarIcon icon="settings-3" tooltip="Settings 💡" />
     <div class="flex-grow"></div>
-    <SidebarIcon icon="information" tooltip="tooltip information 💡" />
+    <SidebarIcon icon="information" tooltip="Information 💡" />
   </aside>
 </template>
 
